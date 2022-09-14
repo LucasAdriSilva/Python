@@ -1,0 +1,5 @@
+nome = input('Qual é o seu nome?')
+print('Ola', nome, '! Seja bem vindo')
+n1 = input('numero 1 = ')
+n2 = input('numero 2 = ')
+print('Valor somado é', int(n1) + int(n2))
